@@ -1,0 +1,46 @@
+1. Project Title
+
+Student Course Enrollment System using Java Collections
+
+2. Problem Statement
+
+To design and implement a Student Course Enrollment System that allows users to enter student details, enroll in courses, and display enrolled students. The system should efficiently store and manage student records using Java collections.
+
+3. Objective
+To create a student enrollment system using Java.
+To store student data using collections (ArrayList).
+To perform enrollment and display operations.
+To improve logical thinking and programming skills.
+To understand data management using collections.
+4. Tools Used
+Java (JDK)
+VS Code / Eclipse / IntelliJ IDEA
+5. Description
+
+This project implements a Student Course Enrollment System using Java. The system allows users to enter student names and course details through a console-based interface. Student records are stored dynamically using an ArrayList, which enables efficient data storage and retrieval. Users can add students, view enrolled students, and manage enrollment records through a simple menu-driven program.
+
+6. Algorithm
+Start the program.
+Create an empty ArrayList to store student records.
+Display menu options.
+Read the user's choice.
+If Add Student is selected, enter student name and course details.
+Store the student record in the ArrayList.
+If Display Students is selected, show all enrolled students.
+Repeat the process until Exit is selected.
+End the program.
+7. Program
+
+Java program to manage student course enrollment using ArrayList.
+
+8. Sample Output
+
+The program displays a menu that allows users to add student records, view enrolled students, and exit the application. Enrolled student details are displayed in a structured format.
+
+9. Result
+
+The Student Course Enrollment System was successfully developed using Java collections. The program allows users to add and display student enrollment records efficiently using ArrayList.
+
+10. Conclusion
+
+This project demonstrates the use of Java collections for managing student enrollment data. It helps in understanding object-oriented programming concepts, collections, loops, conditional statements, and user input handling. The system provides an efficient way to store and display student enrollment records in a console-based environment.
